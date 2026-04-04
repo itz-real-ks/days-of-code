@@ -32,5 +32,5 @@ This folder includes my progress through:
 │   ├── Medium/
 │   └── Hard/
 ├── freeCodeCamp/
-│   ├── Code-Solutions/
+│   ├── daily-coding-challenge/
 └── README.md
