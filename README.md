@@ -28,9 +28,16 @@ This folder includes my progress through:
 ```text
 .
 ├── Unstop/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
+│   └── Day01/
+│       ├── Easy/
+│       │   └── problem-name/
+│       ├── Medium/
+│       └── Hard/
 ├── freeCodeCamp/
-│   ├── daily-coding-challenge/
+│   └── daily-coding-challenge/
+│       └── YYYY-MM-DD/
+│           ├── problem.md
+│           ├── solution.py
+│           └── screenshot.png
+├── LICENSE
 └── README.md
